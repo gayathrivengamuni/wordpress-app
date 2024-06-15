@@ -322,3 +322,7 @@ kubectl get svc
 minikube service grafana                               
 kubectl get svs
 ls
+sudo apt update
+git init
+git add .
+git commit -m "Initial commit"
