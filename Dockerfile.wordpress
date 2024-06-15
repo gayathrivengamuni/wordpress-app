@@ -1,0 +1,4 @@
+FROM wordpress:latest
+LABEL maintainer="sravanaboyanagayathri@gmail.com"
+
+
