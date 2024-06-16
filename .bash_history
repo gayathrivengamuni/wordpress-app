@@ -399,3 +399,89 @@ git status
 git add nginx.conf
 git push nginx.conf
 nano .gitignore
+git add .gitignore
+git commit -m "Add .gitignore"
+git push origin main
+git lfs install
+git lfs track "*.zip"
+git lfs track "minikube-linux-amd64"
+git lfs track "*.tar"
+git lfs track "*.tar.lz4"
+git add .gitattributes
+git commit -m "Configure Git LFS"
+git push origin main
+ls
+git lfs install
+git lfs track "*.zip"
+git lfs track "minikube-linux-amd64"
+git lfs track "*.tar"
+git lfs track "*.tar.lz4"
+git add .gitattributes
+git commit -m "Configure Git LFS"
+git add awscliv2.zip minikube-linux-amd64 .minikube/cache/kic/amd64/kicbase_v0.0.44@sha256_eb04641328b06c5c4a14f4348470e1046bbcf9c2cbc551486e343d3a49db557e.tar .minikube/cache/preloaded-tarball/preloaded-images-k8s-v18-v1.30.0-docker-overlay2-amd64.tar.lz4
+git commit -m "Add large files with Git LFS"
+git push origin main
+ls
+pwd
+minikube status
+minikube delete
+ls
+git add .
+git commit -m
+git push origin main
+git reset HEAD awscliv2.zip minikube-linux-amd64 .minikube/cache/kic/amd64/kicbase_v0.0.44@sha256_eb04641328b06c5c4a14f4348470e1046bbcf9c2cbc551486e343d3a49db557e.tar .minikube/cache/preloaded-tarball/preloaded-images-k8s-v18-v1.30.0-docker-overlay2-amd64.tar.lz4
+echo "awscliv2.zip" >> .gitignore
+echo "minikube-linux-amd64" >> .gitignore
+echo ".minikube/cache/kic/amd64/kicbase_v0.0.44@sha256_eb04641328b06c5c4a14f4348470e1046bbcf9c2cbc551486e343d3a49db557e.tar" >> .gitignore
+echo ".minikube/cache/preloaded-tarball/preloaded-images-k8s-v18-v1.30.0-docker-overlay2-amd64.tar.lz4" >> .gitignore
+git add .gitignore
+git commit -m "Update .gitignore to exclude large files"
+git push origin main
+ls
+vi minikube-linux-amd64
+ls
+rm minikube-linux-amd64
+ls
+git push origin main
+sudo apt update
+git filter-branch --force --index-filter "git rm --cached --ignore-unmatch awscliv2.zip minikube-linux-amd64 .minikube/cache/kic/amd64/kicbase_v0.0.44@sha256_eb04641328b06c5c4a14f4348470e1046bbcf9c2cbc551486e343d3a49db557e.tar .minikube/cache/preloaded-tarball/preloaded-images-k8s-v18-v1.30.0-docker-overlay2-amd64.tar.lz4" --prune-empty --tag-name-filter cat -- --all
+git push origin main --force
+git lfs install
+git lfs track "*.zip" "*.tar" "*.tar.lz4"
+git add .gitattributes
+git commit -m "Track large files with Git LFS"
+git rm --cached minikube-linux-amd64
+git add .gitattributes
+git commit -m "Track large files with Git LFS and remove large file"
+git push origin main
+ls
+git lfs track
+git lfs track "*.tar"
+git add .gitattributes
+git commit -m "Update .gitattributes for LFS"
+git lfs migrate import --include="*.tar,*.tar.lz4" --everything
+git push origin main
+git pull origin main
+git push origin main
+hint:   git config pull.rebase false  # merge
+hint:   git config pull.rebase true   # rebase
+hint:   git config pull.ff only       # fast-forward only
+hint: 
+hint: You can replace "git config" with "git config --global" to set a default
+hint: preference for all repositories. You can also pass --rebase, --no-rebase,
+hint: or --ff-only on the command line to override the configured default per
+hint: invocation.
+fatal: Need to specify how to reconcile divergent branches.
+ubuntu@ip-172-31-41-82:~$ git push origin main
+Username for 'https://github.com': gayathrivengamuni
+Password for 'https://gayathrivengamuni@github.com': 
+To https://github.com/gayathrivengamuni/wordpress-app.git
+error: failed to push some refs to 'https://github.com/gayathrivengamuni/wordpress-app.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+ubuntu@ip-172-31-41-82:~$ 
+git pull --no-rebase origin main
+git pull origin main --allow-unrelated-histories
+git pull --no-rebase --allow-unrelated-histories origin main
