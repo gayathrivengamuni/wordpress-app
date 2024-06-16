@@ -326,3 +326,76 @@ sudo apt update
 git init
 git add .
 git commit -m "Initial commit"
+git remote add origin https://github.com/gayathrivengamuni/wordpress-app.git
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/gayathrivengamuni/wordpress-app.git
+git push -u origin master
+git remote add origin https://github.com/gayathrivengamuni/wordpress-app.git
+git push -u origin master
+git push -u origin main
+git push -u origin master
+git pull origin master
+git commit -m "Merge remote-tracking branch 'origin/master'"
+git push origin master
+git pull --rebase
+git branch --set-upstream-to=origin/main master
+git pull --rebase
+git push origin master
+git lfs install
+git log install
+git add .gitattributes
+git commit -m "Configure Git LFS"
+git push origin master
+curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
+sudo apt-get install git-lfs
+git push origin master
+git lfs install
+git lfs version
+git lfs track "awscliv2.zip"
+git lfs track "minikube-linux-amd64"
+git lfs track ".minikube/cache/kic/amd64/kicbase_v0.0.44@sha256_eb04641328b06c5c4a14f4348470e1046bbcf9c2cbc551486e343d3a49db557e.tar"
+git lfs track ".minikube/cache/preloaded-tarball/preloaded-images-k8s-v18-v1.30.0-docker-overlay2-amd64.tar.lz4"
+git add .gitattributes
+git commit -m "Track large files with Git LFS"
+git push origin master
+git status
+ls
+git add get_helm.sh
+git commit -m "Initial commit"
+git add .gitconfig
+git commit -m "Initial commit"
+git reset .minikube/cache/kic/amd64/kicbase_v0.0.44@sha256_eb04641328b06c5c4a14f4348470e1046bbcf9c2cbc551486e343d3a49db557e.tar
+git reset .minikube/cache/preloaded-tarball/preloaded-images-k8s-v18-v1.30.0-docker-overlay2-amd64.tar.lz4
+git reset awscliv2.zip
+git reset minikube-linux-amd64
+git commit -m "Initial Commit"
+git push origin main
+git push origin master
+git commit -m "Initial commit"
+sudo apt update
+git remote -v
+git remote add origin https://github.com/gayathrivengamuni/wordpress-app.git
+git push origin main
+git remote set-url origin https://github.com/gayathrivengamuni/wordpress-app.git
+git branch
+git checkout -b main
+git push -u origin main
+git reset HEAD <.gitignore>
+git reset HEAD .gitignore
+git add .gitignore
+git commit -m "Update .gitignore to exclude large files"
+vi .gitignore
+git commit -m "Update .gitignore to exclude large files"
+git add .gitignore
+git commit -m "Update .gitignore to exclude large files"
+git push origin main
+echo "path_to_large_file" >> .gitignore
+git commit -m "Update .gitignore and untrack large files"
+git push origin main
+sudo apt update
+ls
+git status
+git add nginx.conf
+git push nginx.conf
+nano .gitignore

@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1718480222,,"wq"
+|2,0,1718490807,,"wq"
 :WQ
 |2,0,1718454613,,"WQ"
 
@@ -27,34 +27,44 @@
 # Registers:
 
 # File marks:
-'0  14  0  ~/Dockerfile
-|4,48,14,0,1718480222,"~/Dockerfile"
-'1  12  0  ~/pvc.yaml
-|4,49,12,0,1718479904,"~/pvc.yaml"
-'2  15  0  ~/pv.yaml
-|4,50,15,0,1718479856,"~/pv.yaml"
-'3  14  0  ~/Dockerfile
-|4,51,14,0,1718456189,"~/Dockerfile"
-'4  13  0  ~/Dockerfile
-|4,52,13,0,1718456089,"~/Dockerfile"
+'0  4  0  ~/.gitignore
+|4,48,4,0,1718490807,"~/.gitignore"
+'1  14  0  ~/Dockerfile
+|4,49,14,0,1718480222,"~/Dockerfile"
+'2  12  0  ~/pvc.yaml
+|4,50,12,0,1718479904,"~/pvc.yaml"
+'3  15  0  ~/pv.yaml
+|4,51,15,0,1718479856,"~/pv.yaml"
+'4  14  0  ~/Dockerfile
+|4,52,14,0,1718456189,"~/Dockerfile"
 '5  13  0  ~/Dockerfile
 |4,53,13,0,1718456089,"~/Dockerfile"
 '6  13  0  ~/Dockerfile
 |4,54,13,0,1718456089,"~/Dockerfile"
 '7  13  0  ~/Dockerfile
 |4,55,13,0,1718456089,"~/Dockerfile"
-'8  12  0  ~/Dockerfile
-|4,56,12,0,1718455951,"~/Dockerfile"
+'8  13  0  ~/Dockerfile
+|4,56,13,0,1718456089,"~/Dockerfile"
 '9  12  0  ~/Dockerfile
 |4,57,12,0,1718455951,"~/Dockerfile"
 
 # Jumplist (newest first):
+-'  4  0  ~/.gitignore
+|4,39,4,0,1718490807,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1718490792,"~/.gitignore"
+-'  14  0  ~/Dockerfile
+|4,39,14,0,1718480222,"~/Dockerfile"
 -'  14  0  ~/Dockerfile
 |4,39,14,0,1718480222,"~/Dockerfile"
 -'  12  0  ~/pvc.yaml
 |4,39,12,0,1718479904,"~/pvc.yaml"
 -'  12  0  ~/pvc.yaml
 |4,39,12,0,1718479904,"~/pvc.yaml"
+-'  12  0  ~/pvc.yaml
+|4,39,12,0,1718479904,"~/pvc.yaml"
+-'  12  0  ~/pvc.yaml
+|4,39,12,0,1718479904,"~/pvc.yaml"
 -'  15  0  ~/pv.yaml
 |4,39,15,0,1718479856,"~/pv.yaml"
 -'  15  0  ~/pv.yaml
@@ -63,6 +73,22 @@
 |4,39,15,0,1718479856,"~/pv.yaml"
 -'  15  0  ~/pv.yaml
 |4,39,15,0,1718479856,"~/pv.yaml"
+-'  15  0  ~/pv.yaml
+|4,39,15,0,1718479856,"~/pv.yaml"
+-'  15  0  ~/pv.yaml
+|4,39,15,0,1718479856,"~/pv.yaml"
+-'  15  0  ~/pv.yaml
+|4,39,15,0,1718479856,"~/pv.yaml"
+-'  15  0  ~/pv.yaml
+|4,39,15,0,1718479856,"~/pv.yaml"
+-'  14  0  ~/Dockerfile
+|4,39,14,0,1718456189,"~/Dockerfile"
+-'  14  0  ~/Dockerfile
+|4,39,14,0,1718456189,"~/Dockerfile"
+-'  14  0  ~/Dockerfile
+|4,39,14,0,1718456189,"~/Dockerfile"
+-'  14  0  ~/Dockerfile
+|4,39,14,0,1718456189,"~/Dockerfile"
 -'  14  0  ~/Dockerfile
 |4,39,14,0,1718456189,"~/Dockerfile"
 -'  14  0  ~/Dockerfile
@@ -81,6 +107,24 @@
 |4,39,13,0,1718456178,"~/Dockerfile"
 -'  13  0  ~/Dockerfile
 |4,39,13,0,1718456178,"~/Dockerfile"
+-'  13  0  ~/Dockerfile
+|4,39,13,0,1718456178,"~/Dockerfile"
+-'  13  0  ~/Dockerfile
+|4,39,13,0,1718456178,"~/Dockerfile"
+-'  13  0  ~/Dockerfile
+|4,39,13,0,1718456178,"~/Dockerfile"
+-'  13  0  ~/Dockerfile
+|4,39,13,0,1718456178,"~/Dockerfile"
+-'  13  0  ~/Dockerfile
+|4,39,13,0,1718456178,"~/Dockerfile"
+-'  13  0  ~/Dockerfile
+|4,39,13,0,1718456089,"~/Dockerfile"
+-'  13  0  ~/Dockerfile
+|4,39,13,0,1718456089,"~/Dockerfile"
+-'  13  0  ~/Dockerfile
+|4,39,13,0,1718456089,"~/Dockerfile"
+-'  13  0  ~/Dockerfile
+|4,39,13,0,1718456089,"~/Dockerfile"
 -'  13  0  ~/Dockerfile
 |4,39,13,0,1718456089,"~/Dockerfile"
 -'  13  0  ~/Dockerfile
@@ -107,6 +151,32 @@
 |4,39,12,0,1718456078,"~/Dockerfile"
 -'  12  0  ~/Dockerfile
 |4,39,12,0,1718456078,"~/Dockerfile"
+-'  12  0  ~/Dockerfile
+|4,39,12,0,1718456078,"~/Dockerfile"
+-'  12  0  ~/Dockerfile
+|4,39,12,0,1718456078,"~/Dockerfile"
+-'  12  0  ~/Dockerfile
+|4,39,12,0,1718456078,"~/Dockerfile"
+-'  12  0  ~/Dockerfile
+|4,39,12,0,1718456078,"~/Dockerfile"
+-'  12  0  ~/Dockerfile
+|4,39,12,0,1718456078,"~/Dockerfile"
+-'  12  0  ~/Dockerfile
+|4,39,12,0,1718456078,"~/Dockerfile"
+-'  12  0  ~/Dockerfile
+|4,39,12,0,1718456078,"~/Dockerfile"
+-'  12  0  ~/Dockerfile
+|4,39,12,0,1718456078,"~/Dockerfile"
+-'  12  0  ~/Dockerfile
+|4,39,12,0,1718456078,"~/Dockerfile"
+-'  12  0  ~/Dockerfile
+|4,39,12,0,1718455951,"~/Dockerfile"
+-'  12  0  ~/Dockerfile
+|4,39,12,0,1718455951,"~/Dockerfile"
+-'  12  0  ~/Dockerfile
+|4,39,12,0,1718455951,"~/Dockerfile"
+-'  12  0  ~/Dockerfile
+|4,39,12,0,1718455951,"~/Dockerfile"
 -'  12  0  ~/Dockerfile
 |4,39,12,0,1718455951,"~/Dockerfile"
 -'  12  0  ~/Dockerfile
@@ -142,6 +212,36 @@
 -'  11  0  ~/Dockerfile
 |4,39,11,0,1718455938,"~/Dockerfile"
 -'  11  0  ~/Dockerfile
+|4,39,11,0,1718455938,"~/Dockerfile"
+-'  11  0  ~/Dockerfile
+|4,39,11,0,1718455938,"~/Dockerfile"
+-'  11  0  ~/Dockerfile
+|4,39,11,0,1718455938,"~/Dockerfile"
+-'  11  0  ~/Dockerfile
+|4,39,11,0,1718455938,"~/Dockerfile"
+-'  11  0  ~/Dockerfile
+|4,39,11,0,1718455938,"~/Dockerfile"
+-'  11  0  ~/Dockerfile
+|4,39,11,0,1718455938,"~/Dockerfile"
+-'  11  0  ~/Dockerfile
+|4,39,11,0,1718455938,"~/Dockerfile"
+-'  11  0  ~/Dockerfile
+|4,39,11,0,1718455938,"~/Dockerfile"
+-'  11  0  ~/Dockerfile
+|4,39,11,0,1718455938,"~/Dockerfile"
+-'  11  0  ~/Dockerfile
+|4,39,11,0,1718455938,"~/Dockerfile"
+-'  11  0  ~/Dockerfile
+|4,39,11,0,1718455938,"~/Dockerfile"
+-'  11  0  ~/Dockerfile
+|4,39,11,0,1718455938,"~/Dockerfile"
+-'  11  0  ~/Dockerfile
+|4,39,11,0,1718455938,"~/Dockerfile"
+-'  11  0  ~/Dockerfile
+|4,39,11,0,1718455834,"~/Dockerfile"
+-'  11  0  ~/Dockerfile
+|4,39,11,0,1718455834,"~/Dockerfile"
+-'  11  0  ~/Dockerfile
 |4,39,11,0,1718455834,"~/Dockerfile"
 -'  11  0  ~/Dockerfile
 |4,39,11,0,1718455834,"~/Dockerfile"
@@ -149,108 +249,15 @@
 |4,39,11,0,1718455834,"~/Dockerfile"
 -'  11  0  ~/Dockerfile
 |4,39,11,0,1718455834,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1718455804,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1718455804,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1718455804,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1718455804,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1718455804,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1718455804,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1718455804,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1718455804,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1718455804,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1718455804,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1718455804,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1718455804,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1718455804,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1718455804,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1718455804,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1718455804,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1718455804,"~/Dockerfile"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
--'  17  0  ~/default.conf
-|4,39,17,0,1718454770,"~/default.conf"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1718490804	0
+	"	4	0
+	^	4	0
+	.	3	20
+	+	3	20
 
 > ~/Dockerfile
 	*	1718480220	0

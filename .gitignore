@@ -3,3 +3,7 @@ awscliv2.zip
 minikube-linux-amd64
 
 path_to_large_file
+awscliv2.zip
+minikube-linux-amd64
+.minikube/cache/kic/amd64/kicbase_v0.0.44@sha256_eb04641328b06c5c4a14f4348470e1046bbcf9c2cbc551486e343d3a49db557e.tar
+.minikube/cache/preloaded-tarball/preloaded-images-k8s-v18-v1.30.0-docker-overlay2-amd64.tar.lz4
